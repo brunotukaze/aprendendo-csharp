@@ -1,0 +1,15 @@
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\00-DesafioAliquotaIF\bin\Debug\net6.0\00-DesafioAliquotaIF.exe
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\00-DesafioAliquotaIF\bin\Debug\net6.0\00-DesafioAliquotaIF.deps.json
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\00-DesafioAliquotaIF\bin\Debug\net6.0\00-DesafioAliquotaIF.runtimeconfig.json
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\00-DesafioAliquotaIF\bin\Debug\net6.0\00-DesafioAliquotaIF.dll
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\00-DesafioAliquotaIF\bin\Debug\net6.0\00-DesafioAliquotaIF.pdb
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\00-DesafioAliquotaIF\obj\Debug\net6.0\00-DesafioAliquotaIF.csproj.AssemblyReference.cache
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\00-DesafioAliquotaIF\obj\Debug\net6.0\00-DesafioAliquotaIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\00-DesafioAliquotaIF\obj\Debug\net6.0\00-DesafioAliquotaIF.AssemblyInfoInputs.cache
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\00-DesafioAliquotaIF\obj\Debug\net6.0\00-DesafioAliquotaIF.AssemblyInfo.cs
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\00-DesafioAliquotaIF\obj\Debug\net6.0\00-DesafioAliquotaIF.csproj.CoreCompileInputs.cache
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\00-DesafioAliquotaIF\obj\Debug\net6.0\00-DesafioAliquotaIF.dll
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\00-DesafioAliquotaIF\obj\Debug\net6.0\refint\00-DesafioAliquotaIF.dll
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\00-DesafioAliquotaIF\obj\Debug\net6.0\00-DesafioAliquotaIF.pdb
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\00-DesafioAliquotaIF\obj\Debug\net6.0\00-DesafioAliquotaIF.genruntimeconfig.cache
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\00-DesafioAliquotaIF\obj\Debug\net6.0\ref\00-DesafioAliquotaIF.dll

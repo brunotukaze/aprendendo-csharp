@@ -1,0 +1,15 @@
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\P11-CalculaPoupauca2\bin\Debug\net6.0\P11-CalculaPoupauca2.exe
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\P11-CalculaPoupauca2\bin\Debug\net6.0\P11-CalculaPoupauca2.deps.json
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\P11-CalculaPoupauca2\bin\Debug\net6.0\P11-CalculaPoupauca2.runtimeconfig.json
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\P11-CalculaPoupauca2\bin\Debug\net6.0\P11-CalculaPoupauca2.dll
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\P11-CalculaPoupauca2\bin\Debug\net6.0\P11-CalculaPoupauca2.pdb
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\P11-CalculaPoupauca2\obj\Debug\net6.0\P11-CalculaPoupauca2.csproj.AssemblyReference.cache
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\P11-CalculaPoupauca2\obj\Debug\net6.0\P11-CalculaPoupauca2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\P11-CalculaPoupauca2\obj\Debug\net6.0\P11-CalculaPoupauca2.AssemblyInfoInputs.cache
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\P11-CalculaPoupauca2\obj\Debug\net6.0\P11-CalculaPoupauca2.AssemblyInfo.cs
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\P11-CalculaPoupauca2\obj\Debug\net6.0\P11-CalculaPoupauca2.csproj.CoreCompileInputs.cache
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\P11-CalculaPoupauca2\obj\Debug\net6.0\P11-CalculaPoupauca2.dll
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\P11-CalculaPoupauca2\obj\Debug\net6.0\refint\P11-CalculaPoupauca2.dll
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\P11-CalculaPoupauca2\obj\Debug\net6.0\P11-CalculaPoupauca2.pdb
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\P11-CalculaPoupauca2\obj\Debug\net6.0\P11-CalculaPoupauca2.genruntimeconfig.cache
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp\P11-CalculaPoupauca2\obj\Debug\net6.0\ref\P11-CalculaPoupauca2.dll
