@@ -1,0 +1,15 @@
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp2\SupermercadoMenorPreco\bin\Debug\net6.0\SupermercadoMenorPreco.exe
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp2\SupermercadoMenorPreco\bin\Debug\net6.0\SupermercadoMenorPreco.deps.json
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp2\SupermercadoMenorPreco\bin\Debug\net6.0\SupermercadoMenorPreco.runtimeconfig.json
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp2\SupermercadoMenorPreco\bin\Debug\net6.0\SupermercadoMenorPreco.dll
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp2\SupermercadoMenorPreco\bin\Debug\net6.0\SupermercadoMenorPreco.pdb
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp2\SupermercadoMenorPreco\obj\Debug\net6.0\SupermercadoMenorPreco.csproj.AssemblyReference.cache
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp2\SupermercadoMenorPreco\obj\Debug\net6.0\SupermercadoMenorPreco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp2\SupermercadoMenorPreco\obj\Debug\net6.0\SupermercadoMenorPreco.AssemblyInfoInputs.cache
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp2\SupermercadoMenorPreco\obj\Debug\net6.0\SupermercadoMenorPreco.AssemblyInfo.cs
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp2\SupermercadoMenorPreco\obj\Debug\net6.0\SupermercadoMenorPreco.csproj.CoreCompileInputs.cache
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp2\SupermercadoMenorPreco\obj\Debug\net6.0\SupermercadoMenorPreco.dll
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp2\SupermercadoMenorPreco\obj\Debug\net6.0\refint\SupermercadoMenorPreco.dll
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp2\SupermercadoMenorPreco\obj\Debug\net6.0\SupermercadoMenorPreco.pdb
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp2\SupermercadoMenorPreco\obj\Debug\net6.0\SupermercadoMenorPreco.genruntimeconfig.cache
+C:\Users\bruno.vagen\source\repos\AprendendoCSharp2\SupermercadoMenorPreco\obj\Debug\net6.0\ref\SupermercadoMenorPreco.dll
